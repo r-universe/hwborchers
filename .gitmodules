@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "adagio"]
+	path = adagio
+	url = https://github.com/cran/adagio
+	shallow = true
+	registered = true
+[submodule "numbers"]
+	path = numbers
+	url = https://github.com/cran/numbers
+	shallow = true
+	registered = true
+[submodule "pracma"]
+	path = pracma
+	url = https://github.com/cran/pracma
+	shallow = true
+	registered = true
